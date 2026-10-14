@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Journey",
+  "description": "Comprehensive 6-week IELTS study planner with progress tracking, focus timer, journal, and practice analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
